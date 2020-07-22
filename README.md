@@ -13,7 +13,7 @@ There are two maps in the project: `SimpleTest` and `TacticsTest` showing differ
 
 ### SimpleTest
 
-**Where to find**: `Content\HTNExampleProject\Maps\SimpleTest`
+**Where to find**: `Content/HTNExampleProject/Maps/SimpleTest`
 
 [Video](https://youtu.be/ARJzKhosmEI)
 
@@ -24,7 +24,7 @@ A more thorough explanation is available at the [documentation website](https://
 
 ### TacticsTest
 
-**Where to find**: `Content\HTNExampleProject\Maps\TacticsTest`
+**Where to find**: `Content/HTNExampleProject/Maps/TacticsTest`
 
 [Video](https://youtu.be/FHapYbv9vjE)
 

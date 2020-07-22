@@ -7,3 +7,7 @@ Requires the HTN plugin.
 
 Also check out the [documentation website](https://maksmaisak.github.io/htn/#/).
 
+#### Ackgnowledgements
+
+This example project uses the [Advanced Locomotion System](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) by LongmireLocomotion.
+

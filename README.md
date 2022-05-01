@@ -1,6 +1,6 @@
 # HTN planning example project
 
-This is the example project for my [HTN planning plugin](https://www.unrealengine.com/marketplace/en-US/product/hierarchical-task-network-planning?sessionInvalidated=true) for Unreal Engine 4.
+This is the example project for my [HTN planning plugin](https://www.unrealengine.com/marketplace/en-US/product/hierarchical-task-network-planning?sessionInvalidated=true) for Unreal Engine 4/5.
 
 To download the latest version, grab a release from [here](https://github.com/maksmaisak/htn-example-project/releases).
 Requires the HTN plugin.
